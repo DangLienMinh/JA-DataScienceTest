@@ -2,7 +2,7 @@
 
 The answer files are written in Jupyter notebooks (*.ipynb) with self-explained
 
-Those question could be found in file "Associates_in_Data_Science-_Test.docs"
+Those question could be found in file "Associates_in_Data_Science-_Test.docx"
 
 The answers are as follow:
 -  GENERAL QUESTIONS: **general_question.ipynb**
