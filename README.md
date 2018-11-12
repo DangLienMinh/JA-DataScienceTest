@@ -19,12 +19,16 @@ Library dependencies:
 
 Those question could be found in file "Associates_in_Data_Science-_Test.docx"
 
+The source code could be found in **code** folder
+
+The result for question 5 could be found in **result** folder
+
 The answers are as follow:
--  GENERAL QUESTIONS: **general_question.ipynb**
-- DATA EXPLORATION CHALLENGE: **data_exploration.ipynb**
+-  GENERAL QUESTIONS: **1_general_question.ipynb**
+- DATA EXPLORATION CHALLENGE: **2_data_exploration.ipynb**
 - DATA SCRAPING AND TEXT ANALYSIS:
-**data_scraping.ipynb**
+**3_data_scraping.ipynb**
 - TIME SERIES ANALYSIS & FORECASTING (Not finished):
-**time_series_analysis.ipynb**
+**4_time_series_analysis.ipynb**
 - CODING CHALLENGE – FEATURE ENGINEERING & MACHINE LEARNING:
-**credit_card_default.ipynb**
+**5_credit_card_default.ipynb**
